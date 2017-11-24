@@ -143,3 +143,5 @@ Here is the whole lot
       </body>
       </html>
 
+![Screenshot](flex2.png)
+![Screenshot](flex4.png)
